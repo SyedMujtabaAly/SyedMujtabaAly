@@ -1,5 +1,3 @@
----
-
 <div align="center">
 
 # ⚡ Syed Mujtaba Ali
@@ -8,47 +6,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Scalable+Full-Stack+Platforms;Designing+Intelligent+AI+%26+Automation+Pipelines;Crafting+High-Impact+BI+Analytics+Dashboards;Transforming+Complex+Data+into+Actionable+Code)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com](https://linkedin.com)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+  <a href="mailto:contact@example.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
 </p>
 
 ---
 
 </div>
 
-### 🛠️ Tech Ecosystem & Arsenal
+### 🌌 System Diagnostics & Profile Summary
 
-<div align="center">
-
-#### Core Stack & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,php,react,nextjs,tailwind,nodejs,django,wordpress" />
-</a>
-
-<br/>
-
-#### Data, Intelligence & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vercel,docker,figma,postman,vscode" />
-</a>
-
-</div>
-
----
-
-### 🚀 Flagship Endeavors
-
-* 🏢 **Enterprise HRMS & Surveillance Bot:** Automated retail/attendance monitoring engine integrating live alerts, real-time logging, and back-office sync.
-* ⚡ **Headless E-Commerce & Web Platforms:** High-performance web apps powered by Next.js, headless CMS layers, and optimized API bridges.
-* 📊 **Executive BI Dashboards:** End-to-end analytical suites transforming granular operational and sales data into real-time visual decision metrics.
-
----
-
-### 📈 Activity & Telemetry
-
-### 💬 Let's Connect
-
-```bash
-$ curl -X POST "[https://api.github.com/users/SyedMujtabaAly/connect](https://api.github.com/users/SyedMujtabaAly/connect)" \
-  -H "Intent: Collaboration" \
-  -d '{"message": "Let us build something scalable and impactful."}'
+```json
+{
+  "engineer": "Syed Mujtaba Ali",
+  "focus_areas": ["Full-Stack Architecture", "Applied AI / LLM Integrations", "Business Intelligence"],
+  "current_status": "Architecting real-time enterprise platforms & intelligent automated workflows",
+  "design_philosophy": "High performance backend, fluid UI aesthetics, data-backed precision",
+  "traits": ["Clean Architecture", "Automation-First", "Cinematic UI/UX"]
+}
